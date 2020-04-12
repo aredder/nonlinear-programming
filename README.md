@@ -1,8 +1,7 @@
 # nonlinear-programming
 
 ### Description
-This repository contains my notes and implementations with respect to the nonlinear optimization course of Prof. Dr. Andrea Walther at 
-University of Paderborn (Wintersemester 18/19) and my self-study of Bertsekas Nonlinear Programming.
+This repository contains notes and implementations to nonlinear optimization.
 
 ### References
  - J. Jahn: Introduction to the Theory of Nonlinear Optimization
